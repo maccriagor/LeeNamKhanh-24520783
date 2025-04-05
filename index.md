@@ -1,9 +1,9 @@
 ---
 title: About Alembic
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
+  ## Thermal Energy Transfer via Repetitive Percussive Force: A Study on the Feasibility of Cooking Chicken through Slapping
+ Một nghiên cứu khoa học mới lạ.
+feature_image: "https://i.postimg.cc/j2QCZ9Pt/Untitled.png"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
