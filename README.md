@@ -1,9 +1,9 @@
-# [Alembic](https://alembic.darn.es/)
+# [Thermal Energy Transfer via Repetitive Percussive Force: A Study on the Feasibility of Cooking Chicken through Slapping](https://alembic.darn.es/)
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
 
-⚗ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.
+⚗ Một nghiên cứu khoa học mới lạ.
 
-![Screenshot](https://raw.githubusercontent.com/daviddarnes/alembic/master/screenshot.png)
+![Screenshot](https://i.postimg.cc/j2QCZ9Pt/Untitled.png)
 
 [<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" width="217"/>](https://buymeacoffee.com/daviddarnes#support)
 
