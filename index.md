@@ -1,5 +1,5 @@
 ---
-  title: About Alembic
+  title: Kinetic to thermal energy.
 feature_text: |
   ## Thermal Energy Transfer via Repetitive Percussive Force: A Study on the Feasibility of Cooking Chicken through Slapping
   Một nghiên cứu khoa học mới lạ.
